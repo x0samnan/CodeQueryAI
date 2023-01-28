@@ -17,7 +17,7 @@ app.use(express.json())
 
 app.get('/', async (req, res) => {
   res.status(200).send({
-    message: 'Server Response Test'
+    message: 'Server Response Test @x0samnan'
   })
 })
 
