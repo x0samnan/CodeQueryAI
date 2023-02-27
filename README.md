@@ -1,5 +1,5 @@
 # CodeQueryAI
-A simple AI for coding queries which made using Javascript and CHATGPT's code-cushman AI model.
+A simple AI for coding queries which made using Javascript and OPENAI's code-cushman AI model.
 In any case, if the AI is not responding, visit https://codequery.onrender.com/ to check if the server is responding. If it is, upon opening the URL a test message is expected.
 
 ## Note: The response to the requests may have some delay load on my server's hosting provider. Usually the first response has a slight delay.
